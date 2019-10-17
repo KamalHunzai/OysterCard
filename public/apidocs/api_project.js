@@ -1,0 +1,1 @@
+define({  "name": "oystercard",  "version": "0.1.0",  "description": "ALEF TEST ",  "title": "Demo RestAPI ",  "url": "http://localhost:3000",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2017-11-21T11:34:24.641Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});

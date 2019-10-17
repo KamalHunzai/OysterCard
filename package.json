@@ -1,0 +1,39 @@
+{
+  "name": "oystercard",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "nyc --reporter=html mocha test/**/**.js"
+  },
+  "dependencies": {
+    "apidoc": "^0.16.1",
+    "async": "^1.5.2",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "kerberos": "^0.0.23",
+    "mongoose": "4.3.2",
+    "morgan": "~1.9.0",
+    "mountebank": "^1.13.0",
+    "serve-favicon": "~2.4.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "nyc": "^11.3.0",
+    "sinon": "^4.1.2",
+    "supertest": "^3.0.0"
+  },
+  "apidoc":{
+    "name": "oystercard",
+    "version": "0.1.0",
+    "description": "ALEF TEST ",
+    "title": "Demo RestAPI ",
+    "url" : "http://localhost:3000"
+  }
+
+}

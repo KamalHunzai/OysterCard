@@ -1,0 +1,17 @@
+{
+  "FARES":{
+    "withInZoneOne":"2.50",
+    "anyOneZoneOutsideZoneOne":"2.00",
+    "anyTwoZonesIncludingZoneOne":"3.00",
+    "anyTwoZonesExcludingZoneOne":"2.25",
+    "anyThreeZones":"3.20",
+    "anyBusJourney":"1.80",
+    "maxFare":"3.20"
+  },
+  "ZONES":{
+    "holborn":["zoneOne"],
+    "earlscourt":["zoneOne","zoneTwo"],
+    "wimbledon":["zoneThree"],
+    "hammersmith":["zoneTwo"]
+  }
+}
