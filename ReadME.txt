@@ -26,4 +26,3 @@ localhost:3000/apidocs/ will take you to test api docs
 
  Kamal
  kamalhussainhunzai@gmail.com
- M: +92-313-2111334
