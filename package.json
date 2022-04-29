@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "apidoc": "^0.16.1",
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
